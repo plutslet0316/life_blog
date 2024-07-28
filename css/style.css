@@ -81,12 +81,11 @@
 :root {
   --fonts-sans-en: "Noto Sans", "Droid Sans", "Calibri", "Arial";
   --fonts-sans-ko: "Jua", "Cute Font";
-  --fonts-sans: var(--fonts-sans-en), var(--fonts-sans-zh), var(--fonts-sans-ko), sans-serif;
+  --fonts-sans: var(--fonts-sans-en), var(--fonts-sans-ko), sans-serif;
 
   --fonts-serif-en: "Noto Serif", "Times New Roman";
-  --fonts-serif-zh: "Noto Serif CJK", SimSun, STSong;
   --fonts-serif-ko: "Gugi";
-  --fonts-serif: var(--fonts-serif-en), var(--fonts-serif-zh), var(--fonts-serif-ko), serif;
+  --fonts-serif: var(--fonts-serif-en), var(--fonts-serif-ko), serif;
 
   --fonts-mono-en: "DejaVu Sans Mono", "Noto Sans Mono", "Consolas", "Courier";
   --fonts-mono-zh: "Noto Sans Mono CJK", "WenQuanYi Zen Hei Mono", "WenQuanYi Micro Hei Mono";
