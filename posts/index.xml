@@ -6,7 +6,30 @@
     <description>Recent content in 포스트 on 플러츠렛의 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 02 Aug 2024 22:54:31 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 23:01:01 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D 프린터로 화분 뽑기</title>
+      <link>https://life.plutslet.pe.kr/posts/3d-print/3d-%ED%94%84%EB%A6%B0%ED%84%B0%EB%A1%9C-%ED%99%94%EB%B6%84-%EB%BD%91%EA%B8%B0/</link>
+      <pubDate>Fri, 02 Aug 2024 23:01:01 +0900</pubDate>
+      
+      <guid>https://life.plutslet.pe.kr/posts/3d-print/3d-%ED%94%84%EB%A6%B0%ED%84%B0%EB%A1%9C-%ED%99%94%EB%B6%84-%EB%BD%91%EA%B8%B0/</guid>
+      <description>&lt;p&gt;요즘 3D 프린터로 화분을 뽑고 있습니다.&lt;br&gt;
+어머니가 화분이 필요하시다고 하셔서 놀고 있던 프린터를 오랜만에 작동시켜 봤습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./%ED%94%84%EB%A6%B0%ED%84%B0.jpg&#34; alt=&#34;프린터&#34;&gt;&lt;/p&gt;
+&lt;p&gt;기종은 엔더 3 프로에 메인보드는 skr1.4 터보 였나 아마 그걸 달아두었습니다.&lt;/p&gt;
+&lt;p&gt;씽기버스에서 찾다가 단순한게 마음에 드신다고 선택한 화분 모델이 아래의 화분입니다.&lt;br&gt;
+&lt;a href=&#34;https://www.thingiverse.com/thing:5384954&#34;&gt;https://www.thingiverse.com/thing:5384954&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;육각형의 심플한 화분인데, 이걸 일반 PLA 필라멘트와 목분 필라멘트, 두 개를 써서 뽑아봤습니다.&lt;br&gt;
+그런데 계절이 여름인지라 공기가 상당히 습해서 그런지 압출 불량이 자꾸 일어나더라고요.&lt;br&gt;
+이걸 해결하기 위해서 식품 건조기를 개조하여 필라멘트 건조기로 만들었는데도 여전히 공기 터지는 소리와 함께 영 시원찮게 뽑히고 있습니다.&lt;br&gt;
+그래도 스파게티처럼 아예 실패하지는 않아서 전부 출력 시키기는 했습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./%ED%99%94%EB%B6%84_%EC%B6%9C%EB%A0%A51.jpg&#34; alt=&#34;화분&#34;&gt;&lt;/p&gt;
+&lt;p&gt;모양이 이래 보여도 튼튼하게 뽑히기는 했습니다.&lt;br&gt;
+여기에 다육 식물을 심으신다고 합니다.&lt;/p&gt;
+&lt;p&gt;참고로 이 프린터로 씽기버스에서 찾은 보드 게임을 뽑아보고 있는데, 그건 나중에 시간이 되면 다시 적어 보겠습니다.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>일상 블로그 시작</title>
       <link>https://life.plutslet.pe.kr/posts/%EC%9D%BC%EC%83%81-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91/</link>
