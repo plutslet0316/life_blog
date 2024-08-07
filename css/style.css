@@ -537,7 +537,7 @@ body {
   overflow-wrap: anywhere;
 }
 .content img {
-  max-width: 92%;
+  max-width: 80%;
   display: block;
   margin-left: auto;
   margin-right: auto;
