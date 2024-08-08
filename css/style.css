@@ -512,7 +512,7 @@ body {
   padding: 10px 15px;
   height: 20px;
   font-weight: bold;
-  color: #444;
+  /* color: #444; */
   cursor: default;
   white-space: nowrap;
   border: 1px solid #dadadc;
@@ -523,7 +523,7 @@ body {
 }
 
 .content tr:nth-child(odd)>td {
-  background: #fcfcfc;
+  /* background: #fcfcfc; */
 }
 
 .content h1,
