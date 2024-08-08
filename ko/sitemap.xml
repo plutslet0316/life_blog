@@ -3,16 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://life.plutslet.pe.kr/posts/</loc>
-    <lastmod>2024-08-02T23:01:01+09:00</lastmod>
+    <lastmod>2024-08-08T20:28:12+09:00</lastmod>
   </url><url>
-    <loc>https://life.plutslet.pe.kr/categories/3d-%ED%94%84%EB%A6%B0%ED%84%B0/</loc>
-    <lastmod>2024-08-02T23:01:01+09:00</lastmod>
-  </url><url>
-    <loc>https://life.plutslet.pe.kr/posts/3d-print/3d-%ED%94%84%EB%A6%B0%ED%84%B0%EB%A1%9C-%ED%99%94%EB%B6%84-%EB%BD%91%EA%B8%B0/</loc>
-    <lastmod>2024-08-02T23:01:01+09:00</lastmod>
+    <loc>https://life.plutslet.pe.kr/posts/plants/1%EB%85%84-%EC%A0%95%EB%8F%84-%EA%B8%B0%EB%A5%B8-%EB%B0%95%EC%A5%90%EB%9E%80/</loc>
+    <lastmod>2024-08-08T20:28:12+09:00</lastmod>
   </url><url>
     <loc>https://life.plutslet.pe.kr/categories/</loc>
-    <lastmod>2024-08-02T23:01:01+09:00</lastmod>
+    <lastmod>2024-08-08T20:28:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -24,8 +21,11 @@
                 href="https://life.plutslet.pe.kr/categories/"
                 />
   </url><url>
+    <loc>https://life.plutslet.pe.kr/categories/%EC%8B%9D%EB%AC%BC/</loc>
+    <lastmod>2024-08-08T20:28:12+09:00</lastmod>
+  </url><url>
     <loc>https://life.plutslet.pe.kr/</loc>
-    <lastmod>2024-08-02T23:01:01+09:00</lastmod>
+    <lastmod>2024-08-08T20:28:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -36,6 +36,12 @@
                 hreflang="ko-KR"
                 href="https://life.plutslet.pe.kr/"
                 />
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/categories/3d-%ED%94%84%EB%A6%B0%ED%84%B0/</loc>
+    <lastmod>2024-08-02T23:01:01+09:00</lastmod>
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/posts/3d-print/3d-%ED%94%84%EB%A6%B0%ED%84%B0%EB%A1%9C-%ED%99%94%EB%B6%84-%EB%BD%91%EA%B8%B0/</loc>
+    <lastmod>2024-08-02T23:01:01+09:00</lastmod>
   </url><url>
     <loc>https://life.plutslet.pe.kr/posts/%EC%9D%BC%EC%83%81-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91/</loc>
     <lastmod>2024-08-02T22:54:31+09:00</lastmod>
