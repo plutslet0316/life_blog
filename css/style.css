@@ -724,3 +724,34 @@ pre .copyCodeButton:hover {
   padding: 0;
   margin: 0;
 }
+
+.single input[type="checkbox"]:checked~label>img {
+    transform: scale(1.6);
+    cursor: zoom-out;
+    position: relative;
+    z-index: 999;
+}
+
+.single img.zoomCheck {
+    transition: transform 0.15s ease;
+    z-index: 999;
+    cursor: zoom-in;
+}
+
+@media screen and (min-width: 769px) {
+
+    /* .post-content is a class which will be present only on single pages 
+        and not lists and section pages in Hugo */
+    .single input[type="checkbox"]:checked~label>img {
+        transform: scale(1.6);
+        cursor: zoom-out;
+        position: relative;
+        z-index: 999;
+    }
+
+    .single img.zoomCheck {
+        transition: transform 0.15s ease;
+        z-index: 999;
+        cursor: zoom-in;
+    }
+}

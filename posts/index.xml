@@ -33,8 +33,18 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./%EB%B0%95%EC%A5%90%EB%9E%80_%EC%A0%84%EC%B2%B4.jpg&#34; alt=&#34;박쥐란&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./%EB%B0%95%EC%A5%90%EB%9E%80_%EC%86%90%ED%95%98%EA%B3%A0_%EB%B9%84%EA%B5%90.jpg&#34; alt=&#34;손하고 비교 샷&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-010e3&#34; hidden&gt;
+&lt;label for=&#34;zoomCheck-010e3&#34;&gt;
+    &lt;img class=&#34;zoomCheck&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./%eb%b0%95%ec%a5%90%eb%9e%80_%ec%a0%84%ec%b2%b4.jpg&#34; alt=&#34;박쥐란&#34;  /&gt;
+&lt;/label&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-1844f&#34; hidden&gt;
+&lt;label for=&#34;zoomCheck-1844f&#34;&gt;
+    &lt;img class=&#34;zoomCheck&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./%eb%b0%95%ec%a5%90%eb%9e%80_%ec%86%90%ed%95%98%ea%b3%a0_%eb%b9%84%ea%b5%90.jpg&#34; alt=&#34;손하고 비교 샷&#34;  /&gt;
+&lt;/label&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -51,7 +61,12 @@
       <guid>https://life.plutslet.pe.kr/posts/3d-print/3d-%ED%94%84%EB%A6%B0%ED%84%B0%EB%A1%9C-%ED%99%94%EB%B6%84-%EB%BD%91%EA%B8%B0/</guid>
       <description>&lt;p&gt;요즘 3D 프린터로 화분을 뽑고 있습니다.&lt;br&gt;
 어머니가 화분이 필요하시다고 하셔서 놀고 있던 프린터를 오랜만에 작동시켜 봤습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./%ED%94%84%EB%A6%B0%ED%84%B0.jpg&#34; alt=&#34;프린터&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-1a6ab&#34; hidden&gt;
+&lt;label for=&#34;zoomCheck-1a6ab&#34;&gt;
+    &lt;img class=&#34;zoomCheck&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./%ed%94%84%eb%a6%b0%ed%84%b0.jpg&#34; alt=&#34;프린터&#34;  /&gt;
+&lt;/label&gt;&lt;/p&gt;
 &lt;p&gt;기종은 엔더 3 프로에 메인보드는 skr1.4 터보 였나 아마 그걸 달아두었습니다.&lt;/p&gt;
 &lt;p&gt;씽기버스에서 찾다가 단순한게 마음에 드신다고 선택한 화분 모델이 아래의 화분입니다.&lt;br&gt;
 &lt;a href=&#34;https://www.thingiverse.com/thing:5384954&#34;&gt;https://www.thingiverse.com/thing:5384954&lt;/a&gt;&lt;/p&gt;
@@ -68,8 +83,18 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./%ED%99%94%EB%B6%84_%EC%B6%9C%EB%A0%A52.jpg&#34; alt=&#34;화분&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./%ED%99%94%EB%B6%84_%EC%9A%A9%EB%B0%9C%ED%86%B1.jpg&#34; alt=&#34;용발톱&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-da04b&#34; hidden&gt;
+&lt;label for=&#34;zoomCheck-da04b&#34;&gt;
+    &lt;img class=&#34;zoomCheck&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./%ed%99%94%eb%b6%84_%ec%b6%9c%eb%a0%a52.jpg&#34; alt=&#34;화분&#34;  /&gt;
+&lt;/label&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-6b5a0&#34; hidden&gt;
+&lt;label for=&#34;zoomCheck-6b5a0&#34;&gt;
+    &lt;img class=&#34;zoomCheck&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./%ed%99%94%eb%b6%84_%ec%9a%a9%eb%b0%9c%ed%86%b1.jpg&#34; alt=&#34;용발톱&#34;  /&gt;
+&lt;/label&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
