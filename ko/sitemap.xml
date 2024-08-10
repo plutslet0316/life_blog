@@ -5,6 +5,31 @@
     <loc>https://life.plutslet.pe.kr/posts/</loc>
     <lastmod>2024-08-08T20:28:12+09:00</lastmod>
   </url><url>
+    <loc>https://life.plutslet.pe.kr/daily/20240810/</loc>
+    <lastmod>2024-08-10T14:40:43+09:00</lastmod>
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/daily/</loc>
+    <lastmod>2024-08-10T14:40:43+09:00</lastmod>
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/</loc>
+    <lastmod>2024-08-10T14:40:43+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://life.plutslet.pe.kr/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KR"
+                href="https://life.plutslet.pe.kr/"
+                />
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/game/</loc>
+    <lastmod>2024-08-09T00:55:46+09:00</lastmod>
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/game/%EA%B3%B5-%ED%8A%80%EA%B8%B0%EA%B8%B0/</loc>
+    <lastmod>2024-08-09T00:55:46+09:00</lastmod>
+  </url><url>
     <loc>https://life.plutslet.pe.kr/posts/plants/1%EB%85%84-%EC%A0%95%EB%8F%84-%EA%B8%B0%EB%A5%B8-%EB%B0%95%EC%A5%90%EB%9E%80/</loc>
     <lastmod>2024-08-08T20:28:12+09:00</lastmod>
   </url><url>
@@ -23,19 +48,6 @@
   </url><url>
     <loc>https://life.plutslet.pe.kr/categories/%EC%8B%9D%EB%AC%BC/</loc>
     <lastmod>2024-08-08T20:28:12+09:00</lastmod>
-  </url><url>
-    <loc>https://life.plutslet.pe.kr/</loc>
-    <lastmod>2024-08-08T20:28:12+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://life.plutslet.pe.kr/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-KR"
-                href="https://life.plutslet.pe.kr/"
-                />
   </url><url>
     <loc>https://life.plutslet.pe.kr/categories/3d-%ED%94%84%EB%A6%B0%ED%84%B0/</loc>
     <lastmod>2024-08-02T23:01:01+09:00</lastmod>
