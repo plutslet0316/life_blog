@@ -755,3 +755,7 @@ pre .copyCodeButton:hover {
         cursor: zoom-in;
     }
 }
+
+th > label > img {
+    width: 100%;
+}
