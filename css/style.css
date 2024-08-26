@@ -602,7 +602,7 @@ pre .copyCodeButton:hover {
 #archive .group .value * { text-indent: 0; }
 #archive .group .value .date  { display: inline-block; width: 60px; }
 #archive .group .value .title { display: inline; }
-
+#archive .group .value .title.write p { margin-top: 0; }
 #archive .group .value .date { color: var(--color-fg-font-normal); }
 
 #archive .group .value a { text-decoration: none; }
