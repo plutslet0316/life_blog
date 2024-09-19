@@ -739,7 +739,7 @@ pre .copyCodeButton:hover {
 {
     transition: transform 0.15s ease;
     z-index: 999;
-    cursor: zoom-in!important;
+    cursor: zoom-in;
 }
 
 th > label > img {

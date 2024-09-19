@@ -5,6 +5,22 @@
     <loc>https://life.plutslet.pe.kr/posts/</loc>
     <lastmod>2024-09-18T15:53:35+09:00</lastmod>
   </url><url>
+    <loc>https://life.plutslet.pe.kr/categories/</loc>
+    <lastmod>2024-09-18T15:53:35+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://life.plutslet.pe.kr/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KR"
+                href="https://life.plutslet.pe.kr/categories/"
+                />
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/categories/%EC%97%AC%ED%96%89/</loc>
+    <lastmod>2024-09-18T15:53:35+09:00</lastmod>
+  </url><url>
     <loc>https://life.plutslet.pe.kr/posts/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%ED%96%89/</loc>
     <lastmod>2024-09-18T15:53:35+09:00</lastmod>
   </url><url>
@@ -102,19 +118,6 @@
   </url><url>
     <loc>https://life.plutslet.pe.kr/posts/plants/1%EB%85%84-%EC%A0%95%EB%8F%84-%EA%B8%B0%EB%A5%B8-%EB%B0%95%EC%A5%90%EB%9E%80/</loc>
     <lastmod>2024-08-08T20:28:12+09:00</lastmod>
-  </url><url>
-    <loc>https://life.plutslet.pe.kr/categories/</loc>
-    <lastmod>2024-08-08T20:28:12+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://life.plutslet.pe.kr/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-KR"
-                href="https://life.plutslet.pe.kr/categories/"
-                />
   </url><url>
     <loc>https://life.plutslet.pe.kr/categories/%EC%8B%9D%EB%AC%BC/</loc>
     <lastmod>2024-08-08T20:28:12+09:00</lastmod>
