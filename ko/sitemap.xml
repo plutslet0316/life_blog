@@ -5,6 +5,25 @@
     <loc>https://life.plutslet.pe.kr/posts/</loc>
     <lastmod>2024-09-18T15:53:35+09:00</lastmod>
   </url><url>
+    <loc>https://life.plutslet.pe.kr/daily/20240919/</loc>
+    <lastmod>2024-09-19T22:22:47+09:00</lastmod>
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/daily/</loc>
+    <lastmod>2024-09-19T22:22:47+09:00</lastmod>
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/</loc>
+    <lastmod>2024-09-19T22:22:47+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://life.plutslet.pe.kr/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-KR"
+                href="https://life.plutslet.pe.kr/"
+                />
+  </url><url>
     <loc>https://life.plutslet.pe.kr/categories/</loc>
     <lastmod>2024-09-18T15:53:35+09:00</lastmod>
     <xhtml:link
@@ -24,23 +43,7 @@
     <loc>https://life.plutslet.pe.kr/posts/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%ED%96%89/</loc>
     <lastmod>2024-09-18T15:53:35+09:00</lastmod>
   </url><url>
-    <loc>https://life.plutslet.pe.kr/</loc>
-    <lastmod>2024-09-18T15:53:35+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://life.plutslet.pe.kr/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-KR"
-                href="https://life.plutslet.pe.kr/"
-                />
-  </url><url>
     <loc>https://life.plutslet.pe.kr/daily/20240910/</loc>
-    <lastmod>2024-09-10T22:19:56+09:00</lastmod>
-  </url><url>
-    <loc>https://life.plutslet.pe.kr/daily/</loc>
     <lastmod>2024-09-10T22:19:56+09:00</lastmod>
   </url><url>
     <loc>https://life.plutslet.pe.kr/daily/20240907/</loc>
