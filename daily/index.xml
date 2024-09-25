@@ -6,7 +6,22 @@
     <description>Recent content in Dailies on 플러츠렛의 일상 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 19 Sep 2024 22:22:47 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 23:06:46 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240925</title>
+      <link>https://life.plutslet.pe.kr/daily/20240925/</link>
+      <pubDate>Wed, 25 Sep 2024 23:06:46 +0900</pubDate>
+      
+      <guid>https://life.plutslet.pe.kr/daily/20240925/</guid>
+      <description>&lt;p&gt;요즘 그래픽 카드가 풀로드 되면서 모니터가 검은 화면이 되어버리는 증상이 종종 발생했었다.&lt;br&gt;
+컴퓨터 본체에 작은 충격을 주기만 해도 같은 증상이 일어난다.&lt;br&gt;
+그 원인을 몰라서 이런 저런 시도를 해보다가 오늘 드디어 해결했다.&lt;br&gt;
+파워 서플라이를 풀 모듈러로 사용하고 있었는데, 그래픽 카드 공급선을 제대로 끼우지 않아서 생긴 문제였다.&lt;br&gt;
+힘줘서 끝까지 밀어넣어 서로 맞닿아야지만 제대로 끼워진 것이었다.&lt;br&gt;
+그렇게 하니까 쾌적하게 동작하더라.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>20240919</title>
       <link>https://life.plutslet.pe.kr/daily/20240919/</link>
