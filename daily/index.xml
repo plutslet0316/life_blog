@@ -6,14 +6,29 @@
     <description>Recent content in Dailies on 플러츠렛의 일상 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 27 Sep 2024 23:04:17 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Sep 2024 22:58:26 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240928</title>
+      <link>https://life.plutslet.pe.kr/daily/20240928/</link>
+      <pubDate>Sat, 28 Sep 2024 22:58:26 +0900</pubDate>
+      
+      <guid>https://life.plutslet.pe.kr/daily/20240928/</guid>
+      <description>&lt;p&gt;오늘은 초밥을 시켜먹었다.&lt;br&gt;
+특선 모둠 초밥 2만원에 타코와사비 초밥 1개 2,200원 추가해서 먹었다.&lt;br&gt;
+여긴 특이하게 성게알 초밥이 모둠에 포함되어 있는데, 약간 달달한 맛이 생각보다 괜찮게 느껴진다.
+콜라에 위스키 살짝 타서 같이 먹었다.&lt;br&gt;
+아래 사진은 초밥 사진.
+&lt;br&gt;&lt;img src=&#34;./20240928/초밥근접.jpg&#34; width=&#34;30%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>20240927</title>
       <link>https://life.plutslet.pe.kr/daily/20240927/</link>
       <pubDate>Fri, 27 Sep 2024 23:04:17 +0900</pubDate>
       
       <guid>https://life.plutslet.pe.kr/daily/20240927/</guid>
-      <description>&lt;p&gt;이유눈 모르겠지만 요즘 계속 피곤하다.&lt;br&gt;
+      <description>&lt;p&gt;이유는 모르겠지만 요즘 계속 피곤하다.&lt;br&gt;
 피곤함 중에서도 졸린 타입의 피곤함이다.&lt;br&gt;
 그래서 어제는 저녁 먹고 소화를 대충 시킨다음 조금 누웠더니 바로 잤다.&lt;br&gt;
 글 쓰는 지금도 피곤한데, 쓰다보니 또 괜찮아진 거 같기도.&lt;br&gt;
@@ -27,8 +42,8 @@
       <pubDate>Wed, 25 Sep 2024 23:06:46 +0900</pubDate>
       
       <guid>https://life.plutslet.pe.kr/daily/20240925/</guid>
-      <description>&lt;p&gt;요즘 그래픽 카드가 풀로드 되면서 모니터가 검은 화면이 되어버리는 증상이 종종 발생했었다.&lt;br&gt;
-컴퓨터 본체에 작은 충격을 주기만 해도 같은 증상이 일어난다.&lt;br&gt;
+      <description>&lt;p&gt;요즘 그래픽 카드가 풀로드 되고 모니터가 검은 화면이 되어버리는 증상이 종종 발생했었다.&lt;br&gt;
+정상적으로 부팅 되더라도 컴퓨터 본체에 작은 충격을 주기만 해도 같은 증상이 일어난다.&lt;br&gt;
 그 원인을 몰라서 이런 저런 시도를 해보다가 오늘 드디어 해결했다.&lt;br&gt;
 파워 서플라이를 풀 모듈러로 사용하고 있었는데, 그래픽 카드 공급선을 제대로 끼우지 않아서 생긴 문제였다.&lt;br&gt;
 힘줘서 끝까지 밀어넣어 서로 맞닿아야지만 제대로 끼워진 것이었다.&lt;br&gt;
