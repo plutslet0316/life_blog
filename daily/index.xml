@@ -6,7 +6,24 @@
     <description>Recent content in Dailies on 플러츠렛의 일상 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 09 Oct 2024 22:23:29 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2024 22:27:45 +0900</lastBuildDate><atom:link href="https://life.plutslet.pe.kr/daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20241010</title>
+      <link>https://life.plutslet.pe.kr/daily/20241010/</link>
+      <pubDate>Thu, 10 Oct 2024 22:27:45 +0900</pubDate>
+      
+      <guid>https://life.plutslet.pe.kr/daily/20241010/</guid>
+      <description>&lt;p&gt;저저번주 토요일 부터 르방 만들기를 도전했다. 그리고 생각보다 순항중이다.&lt;br&gt;
+저녁에 한번 먹이주고 있는데, 이번에 버리는 걸로 쉬운 레시피의 과자를 만들어봤다.&lt;br&gt;
+기본적으로 아래 레시피를 따라서 했지만, 나는 비건이 아니라서 일반 버터 넣어주고, 설탕 대신 꿀 넣어주고, 참깨 솔솔 뿌려서 구웠다.&lt;br&gt;
+이건 &lt;a href=&#34;https://brunch.co.kr/@hotelmarilyn/214&#34;&gt;참고한 레시피 링크&lt;/a&gt;이고, 아래는 완성 사진이다.&lt;br&gt;
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-르방-디스카드-과자&#34; hidden=&#34;&#34;&gt;
+&lt;label for=&#34;zoomCheck-르방-디스카드-과자&#34;&gt;
+&lt;img class=&#34;zoomCheck&#34; width=&#34;30%&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./20241010/르방_디스카드_과자.jpg&#34; alt=&#34;르방 디스카드 과자&#34;&gt;
+&lt;/label&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>20241009</title>
       <link>https://life.plutslet.pe.kr/daily/20241009/</link>
@@ -18,8 +35,11 @@
 이런 순서로 싸서 먹었다.&lt;br&gt;
 특제 소스는 케첩 많이, 머스타드 적당히, 불닭 소스 진짜 조금. 이렇게 넣고 섞어준 다음 전자렌지에 30초 돌려준 소스다.&lt;br&gt;
 내가 대충 만들어 먹을 때 자주 쓰는 소스인데 왠만한 곳에 다 어울린다.&lt;br&gt;
-조금 고급스러워진다고 해도 좋은 소스다.&lt;br&gt;
-&lt;br&gt;&lt;img src=&#34;./20241009/샌드위치.jpg&#34; width=&#34;30%&#34;&gt;&lt;/p&gt;
+조금 고급스럽다고 해도 좋은 소스다.&lt;br&gt;
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-샌드위치&#34; hidden=&#34;&#34;&gt;
+&lt;label for=&#34;zoomCheck-샌드위치&#34;&gt;
+&lt;img class=&#34;zoomCheck&#34; width=&#34;30%&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./20241009/샌드위치.jpg&#34; alt=&#34;샌드위치&#34;&gt;
+&lt;/label&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -88,8 +108,11 @@
 특선 모둠 초밥 2만원에 타코와사비 초밥 1개 2,200원 추가해서 먹었다.&lt;br&gt;
 여긴 특이하게 성게알 초밥이 모둠에 포함되어 있는데, 약간 달달한 맛이 생각보다 괜찮게 느껴진다.
 콜라에 위스키 살짝 타서 같이 먹었다.&lt;br&gt;
-아래 사진은 초밥 사진.
-&lt;br&gt;&lt;img src=&#34;./20240928/초밥근접.jpg&#34; width=&#34;30%&#34;&gt;&lt;/p&gt;
+아래 사진은 초밥 사진.&lt;br&gt;
+&lt;input type=&#34;checkbox&#34; id=&#34;zoomCheck-초밥근접&#34; hidden=&#34;&#34;&gt;
+&lt;label for=&#34;zoomCheck-초밥근접&#34;&gt;
+&lt;img class=&#34;zoomCheck&#34; width=&#34;30%&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./20240928/초밥근접.jpg&#34; alt=&#34;초밥근접&#34;&gt;
+&lt;/label&gt;&lt;/p&gt;
 </description>
     </item>
     
