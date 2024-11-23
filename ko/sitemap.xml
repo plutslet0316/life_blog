@@ -3,16 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://life.plutslet.pe.kr/posts/</loc>
-    <lastmod>2024-09-18T15:53:35+09:00</lastmod>
+    <lastmod>2024-11-23T20:04:47+09:00</lastmod>
   </url><url>
-    <loc>https://life.plutslet.pe.kr/daily/20241116/</loc>
-    <lastmod>2024-11-16T22:06:51+09:00</lastmod>
-  </url><url>
-    <loc>https://life.plutslet.pe.kr/daily/</loc>
-    <lastmod>2024-11-16T22:06:51+09:00</lastmod>
+    <loc>https://life.plutslet.pe.kr/posts/%ED%8A%B9%EC%9D%B4%ED%95%9C-%EA%B3%A0%EA%B8%B0%EB%A5%BC-%EC%9A%94%EB%A6%AC%ED%95%B4-%EB%A8%B9%EB%8B%A4/</loc>
+    <lastmod>2024-11-23T20:04:47+09:00</lastmod>
   </url><url>
     <loc>https://life.plutslet.pe.kr/</loc>
-    <lastmod>2024-11-16T22:06:51+09:00</lastmod>
+    <lastmod>2024-11-23T20:04:47+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -23,6 +20,12 @@
                 hreflang="ko-KR"
                 href="https://life.plutslet.pe.kr/"
                 />
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/daily/20241116/</loc>
+    <lastmod>2024-11-16T22:06:51+09:00</lastmod>
+  </url><url>
+    <loc>https://life.plutslet.pe.kr/daily/</loc>
+    <lastmod>2024-11-16T22:06:51+09:00</lastmod>
   </url><url>
     <loc>https://life.plutslet.pe.kr/daily/20241110/</loc>
     <lastmod>2024-11-10T15:30:24+09:00</lastmod>
